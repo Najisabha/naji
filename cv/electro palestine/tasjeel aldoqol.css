@@ -1,0 +1,111 @@
+* {
+  font-family: "Rubik", sans-serif;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 20px;
+  direction: rtl;
+}
+.hader {
+  background-color: black;
+}
+h1 {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+  margin-top: -100px;
+  padding-bottom: 20px;
+  color: rgb(255, 251, 0);
+  font-size: 30px;
+}
+#logo {
+  height: 130px;
+  width: 130px;
+}
+.nav {
+  background: rgb(128, 255, 0);
+}
+a {
+  color: rgb(0, 0, 0);
+}
+.nav ul li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 40px;
+}
+.nav ul li a {
+  margin: 70px;
+}
+a:hover {
+  color: red;
+  transform: scale(1.3);
+  transition: 0.4s;
+}
+/*هون بلشنا ب محنوى تسجيل البيانات */
+body {
+  background: green;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  font-size: 150%;
+}
+form {
+  text-align: center;
+  background: rgb(255, 255, 0);
+  position: absolute;
+  width: 28%;
+  right: 34%;
+  top: 34%;
+  border-radius: 35px;
+  box-shadow: 20px 20px black;
+}
+form a {
+  color: rgb(0, 0, 0);
+  margin: 5px;
+}
+.bot {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border-radius: 9px;
+  padding: 10px;
+}
+.bot:hover {
+  background-color: black;
+  color: wheat;
+  transform: scale(1.2);
+  transition: 0.5s;
+  cursor: pointer;
+}
+.nann a {
+  color: rgb(0, 0, 0);
+  transform: scale(1);
+  transition: 0.4s;
+}
+.nann a:hover {
+  color: rgb(255, 0, 0);
+  transition: 0.3s;
+  transform: scale(1.5);
+}
+input:focus {
+  background-color: rgba(255, 255, 255, 0.363);
+  transform: scale(1.05);
+  transition: 0.4s;
+}
+i {
+  transform: scale(1.3);
+}
+input {
+  margin-right: 8px;
+  font-size: 18px;
+}
+#id {
+  font-size: 20px;
+  position: absolute;
+  right: 130px;
+}
+#idl {
+  margin-left: 250px;
+}

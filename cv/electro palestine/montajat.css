@@ -1,0 +1,354 @@
+* {
+  font-family: "Rubik", sans-serif;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 20px;
+  direction: rtl;
+}
+.hader {
+  background-color: black;
+}
+.hader h1 {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+  margin-top: -100px;
+  padding-bottom: 20px;
+  color: rgb(255, 251, 0);
+  font-size: 30px;
+}
+#logo {
+  height: 130px;
+  width: 130px;
+}
+.nav {
+  background: rgb(128, 255, 0);
+}
+a {
+  color: rgb(0, 0, 0);
+}
+.nav ul li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 40px;
+}
+.nav ul li a {
+  margin: 70px;
+}
+.nav ul li a:hover {
+  color: rgb(255, 0, 0);
+  transform: scale(1.5);
+  transition: 0.4s;
+}
+body {
+  background-color: green;
+}
+#welcame {
+  color: yellow;
+  text-align: center;
+  font-size: 40px;
+}
+
+/* اول منتج  */
+
+/* اول منتج  */
+
+/* اول منتج  */
+
+/* اول منتج  */
+
+/* اول منتج  */
+
+/* اول منتج  */
+
+/* اول منتج  */
+
+/* اول منتج  */
+
+/* اول منتج  */
+
+.montaj1 {
+  box-shadow: 10px 10px rgb(255, 0, 0);
+
+  background-color: rgb(0, 0, 0);
+  margin-left: 1%;
+  margin-top: 2%;
+  margin-right: 5%;
+  border-radius: 20px;
+}
+.montaj1 h1 {
+  text-align: center;
+  color: red;
+}
+.montaj1 img {
+  margin-left: 50px;
+  margin-right: 80px;
+  margin-bottom: 4%;
+}
+.montaj1 a {
+  color: yellow;
+  position: relative;
+  bottom: 20px;
+  left: 7px;
+  cursor: pointer;
+  justify-content: space-between;
+  font-size: 90%;
+  margin-right: 30px;
+}
+.montaj1 ul ol a:hover {
+  transition: 0.3s;
+  color: green;
+  font-size: 23px;
+}
+.montaj1 h2 {
+  color: yellow;
+  text-align: end;
+  margin-bottom: 11%;
+  margin-top: -40px;
+}
+/* ثاني منتج */
+
+.montaj2 {
+  box-shadow: 10px 10px rgb(255, 0, 0);
+
+  background-color: rgb(0, 0, 0);
+  margin-left: 1%;
+  margin-top: 2%;
+  margin-right: 5%;
+  border-radius: 20px;
+}
+.montaj2 h1 {
+  text-align: center;
+  color: red;
+  font-size: 18px;
+}
+.montaj2 img {
+  margin-left: 50px;
+  margin-right: 80px;
+  margin-bottom: 4%;
+}
+.montaj2 a {
+  color: yellow;
+  position: relative;
+  bottom: 20px;
+  left: 7px;
+  cursor: pointer;
+  justify-content: space-between;
+  font-size: 90%;
+  margin-right: 30px;
+}
+.montaj2 ul ol a:hover {
+  transition: 0.3s;
+  color: green;
+  font-size: 23px;
+}
+.montaj2 h2 {
+  color: yellow;
+  text-align: end;
+  margin-bottom: 11%;
+  margin-top: -40px;
+}
+/* ثالث منتج */
+.montaj3 {
+  box-shadow: 10px 10px rgb(255, 0, 0);
+
+  background-color: rgb(0, 0, 0);
+  margin-left: 1%;
+  margin-top: 2%;
+  margin-right: 5%;
+  border-radius: 20px;
+}
+.montaj3 h1 {
+  text-align: center;
+  color: red;
+  font-size: 18px;
+}
+.montaj3 img {
+  margin-left: 50px;
+  margin-right: 80px;
+  margin-bottom: 4%;
+}
+.montaj3 a {
+  color: yellow;
+  position: relative;
+  bottom: 20px;
+  left: 7px;
+  cursor: pointer;
+  justify-content: space-between;
+  font-size: 90%;
+  margin-right: 30px;
+}
+.montaj3 ul ol a:hover {
+  transition: 0.3s;
+  color: green;
+  font-size: 23px;
+}
+.montaj3 h2 {
+  color: yellow;
+  text-align: end;
+  margin-bottom: 11%;
+  margin-top: -40px;
+}
+/* رابع منتج */
+.montaj4 {
+  box-shadow: 10px 10px rgb(255, 0, 0);
+
+  background-color: rgb(0, 0, 0);
+  margin-left: 76%;
+  margin-top: 2%;
+  margin-right: 5%;
+  border-radius: 20px;
+}
+.montaj4 h1 {
+  text-align: center;
+  color: red;
+  font-size: 18px;
+}
+.montaj4 img {
+  margin-left: 50px;
+  margin-right: 80px;
+  margin-bottom: 4%;
+}
+.montaj4 a {
+  color: yellow;
+  position: relative;
+  bottom: 20px;
+  left: 7px;
+  cursor: pointer;
+  justify-content: space-between;
+  font-size: 90%;
+  margin-right: 30px;
+}
+.montaj4 ul ol a:hover {
+  transition: 0.3s;
+  color: green;
+  font-size: 23px;
+}
+.montaj4 h2 {
+  color: yellow;
+  text-align: end;
+  margin-bottom: 11%;
+  margin-top: -40px;
+}
+/* نيتفلكس جاهز*/
+.bbb {
+  display: flex;
+}
+
+/*سبوتي فاي اول حساب*/
+.montaj_1 img {
+  height: 100px;
+  width: 100px;
+  margin-right: 27%;
+  margin-top: 10%;
+}
+.montaj_1 {
+  background: rgb(0, 0, 0);
+  box-shadow: 10px 10px rgb(255, 251, 0);
+  border-radius: 20px;
+  margin-right: 70px;
+  color: yellow;
+  margin-top: 30px;
+}
+.montaj_1 a {
+  color: green;
+}
+.montaj_1 a:hover {
+  color: blue;
+  font-size: 110%;
+  transition: 0.2s;
+}
+/*  ثاني منتج */
+.montaj_1 h2 {
+  text-align: end;
+}
+.montaj_2 img {
+  height: 100px;
+  width: 100px;
+  margin-right: 27%;
+  margin-top: 10%;
+}
+.montaj_2 {
+  background: rgb(0, 0, 0);
+  box-shadow: 10px 10px rgb(251, 255, 0);
+  border-radius: 20px;
+  margin-right: 70px;
+  color: yellow;
+  margin-top: 30px;
+}
+
+.montaj_2 a {
+  color: green;
+}
+
+.montaj_2 a:hover {
+  color: blue;
+  font-size: 110%;
+  transition: 0.2s;
+}
+.montaj_2 h2 {
+  text-align: end;
+}
+/*  ثالث منتج */
+
+.montaj_3 img {
+  height: 100px;
+  width: 100px;
+  margin-right: 27%;
+  margin-top: 10%;
+}
+.montaj_3 {
+  background: rgb(0, 0, 0);
+  box-shadow: 10px 10px yellow;
+  border-radius: 20px;
+  margin-right: 70px;
+  color: yellow;
+  margin-top: 30px;
+}
+
+.montaj_3 a {
+  color: green;
+}
+
+.montaj_3 a:hover {
+  color: blue;
+  font-size: 110%;
+  transition: 0.2s;
+}
+.montaj_3 h2 {
+  text-align: end;
+}
+/*  رابع منتج */
+
+.montaj_4 img {
+  height: 100px;
+  width: 100px;
+  margin-right: 27%;
+  margin-top: 10%;
+}
+.montaj_4 {
+  background: rgb(0, 0, 0);
+  box-shadow: 10px 10px yellow;
+  border-radius: 20px;
+  margin-right: 70px;
+  color: yellow;
+  margin-top: 30px;
+}
+
+.montaj_4 a {
+  color: green;
+}
+
+.montaj_4 a:hover {
+  color: blue;
+  font-size: 110%;
+  transition: 0.2s;
+}
+.montaj_4 h2 {
+  text-align: end;
+}
+.nn_1 {
+  display: flex;
+}

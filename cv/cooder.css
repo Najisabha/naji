@@ -1,0 +1,225 @@
+* {
+  direction: rtl;
+  text-decoration: none;
+}
+
+body {
+  background-color: #2f00ff !important;
+}
+h1 {
+  font-family: "Single Day", cursive;
+  font-size: 50px;
+  margin-right: 20%;
+  color: white;
+}
+#logo {
+  position: absolute;
+  top: 5%;
+  right: 2%;
+  width: 100px;
+  height: 100px;
+}
+h1 {
+  position: absolute;
+  top: 1%;
+  right: 15%;
+}
+.header {
+  background: rgb(0, 0, 0);
+}
+
+#me_1 {
+  color: white;
+  position: absolute;
+  margin-right: 5%;
+  font-size: 20px;
+}
+#me_1:hover {
+  cursor: pointer;
+}
+#me_1:hover {
+  color: black;
+  font-size: 170%;
+  transition: 0.47s;
+}
+#me_2 {
+  color: white;
+  position: absolute;
+  margin-right: 25%;
+  font-size: 20px;
+}
+
+#me_2:hover {
+  color: rgb(251, 255, 0);
+  font-size: 170%;
+  transition: 0.47s;
+}
+
+#me_3 {
+  color: white;
+  position: absolute;
+  margin-right: 45%;
+  font-size: 20px;
+}
+
+#me_3:hover {
+  color: rgb(51, 255, 0);
+  font-size: 170%;
+  transition: 0.47s;
+}
+
+#me_4 {
+  color: white;
+  position: absolute;
+  margin-right: 70%;
+  font-size: 20px;
+}
+
+#me_4:hover {
+  color: rgb(1, 0, 85);
+  font-size: 170%;
+  transition: 0.47s;
+}
+.nav {
+  background: green;
+}
+
+.amal_0 {
+  margin: 50px;
+}
+.amal {
+  display: flex;
+  height: 400px;
+  width: 900px;
+  text-align: center;
+  border-radius: 10px;
+  background: rgb(0, 0, 0);
+}
+#amal1 {
+  position: absolute;
+  right: 20%;
+  background-image: url(ma_1.png);
+  color: green;
+}
+#amal1:hover {
+  transform: scale(1.14);
+  transition: 0.5s;
+  color: yellow;
+}
+
+#amal2 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  right: 20%;
+  top: 120%;
+  background-image: url(ma_2.png);
+}
+#amal2:hover {
+  transform: scale(1.14);
+  transition: 0.5s;
+  color: #ff0000;
+}
+#net {
+  font-size: 45px;
+}
+
+#amal3 {
+  position: absolute;
+  right: 20%;
+  top: 195%;
+
+  background-image: url(ma_3.png);
+  color: green;
+}
+#amal3:hover {
+  transform: scale(1.14);
+  transition: 0.5s;
+  color: red;
+}
+
+#amal5 {
+  position: absolute;
+  right: 20%;
+  top: 270%;
+
+  background-image: url(ma_4.png);
+  color: green;
+}
+#amal5:hover {
+  transform: scale(1.14);
+  transition: 0.5s;
+  color: red;
+}
+
+#amal6 {
+  position: absolute;
+  right: 20%;
+  top: 345%;
+
+  background-image: url(XO.png);
+  color: rgb(51, 255, 0);
+}
+
+#amal6:hover {
+  transform: scale(1.14);
+  transition: 0.5s;
+  color: rgb(251, 255, 0);
+}
+#amal7 {
+  position: absolute;
+  right: 20%;
+  top: 420%;
+  background-image: url();
+  color: rgb(255, 255, 255);
+}
+#amal7:hover {
+  transform: scale(1.14);
+  transition: 0.5s;
+  color: rgb(255, 255, 255);
+}
+
+#amal9 {
+  position: absolute;
+  right: 20%;
+  top: 495%;
+  background-image: url();
+  color: rgb(255, 255, 255);
+}
+#amal9:hover {
+  transform: scale(1.14);
+  transition: 0.5s;
+  color: rgb(255, 255, 255);
+}
+
+#amal10 {
+  position: absolute;
+  right: 20%;
+  top: 570%;
+
+  background-image: url();
+  color: rgb(255, 255, 255);
+}
+
+#amal10:hover {
+  transform: scale(1.14);
+  transition: 0.5s;
+  color: rgb(255, 255, 255);
+}
+#amal11 {
+  position: absolute;
+  right: 20%;
+  top: 645%;
+
+  background-image: url();
+  color: rgb(255, 255, 255);
+}
+#amal11:hover {
+  transform: scale(1.14);
+  transition: 0.5s;
+  color: rgb(255, 255, 255);
+}
+h2 {
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  margin-right: 60%;
+}

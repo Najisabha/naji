@@ -1,0 +1,103 @@
+* {
+  direction: rtl;
+  text-decoration: none;
+}
+
+body {
+  background-color: #2f00ff !important;
+}
+h1 {
+  font-family: "Single Day", cursive;
+  font-size: 50px;
+  margin-right: 20%;
+  color: white;
+}
+#logo {
+  position: absolute;
+  top: 5%;
+  right: 2%;
+  width: 100px;
+  height: 100px;
+}
+h1 {
+  position: absolute;
+  top: 1%;
+  right: 15%;
+}
+.header {
+  background: rgb(0, 0, 0);
+}
+
+#me_1 {
+  color: white;
+  position: absolute;
+  margin-right: 5%;
+  font-size: 20px;
+}
+#me_1:hover {
+  color: black;
+  font-size: 170%;
+  transition: 0.47s;
+}
+#me_2 {
+  color: white;
+  position: absolute;
+  margin-right: 25%;
+  font-size: 20px;
+}
+
+#me_2:hover {
+  color: rgb(251, 255, 0);
+  font-size: 170%;
+  transition: 0.47s;
+}
+
+#me_3 {
+  color: white;
+  position: absolute;
+  margin-right: 45%;
+  font-size: 20px;
+}
+
+#me_3:hover {
+  color: rgb(51, 255, 0);
+  font-size: 170%;
+  transition: 0.47s;
+}
+
+#me_4 {
+  color: white;
+  position: absolute;
+  margin-right: 70%;
+  font-size: 20px;
+}
+
+#me_4:hover {
+  color: rgb(1, 0, 85);
+  font-size: 170%;
+  transition: 0.47s;
+}
+.nav {
+  background: green;
+}
+.aboutme h1 {
+  position: absolute;
+  top: 35%;
+  right: 40%;
+  font-size: 200%;
+}
+.aboutme pre {
+  position: absolute;
+  top: 44%;
+  right: 50%;
+  font-size: 250%;
+  color: rgb(255, 255, 255);
+}
+
+.aboutme h3 {
+  position: absolute;
+  top: 60%;
+  right: 52%;
+  font-size: 180%;
+  color: rgb(255, 255, 255);
+}

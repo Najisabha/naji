@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 255, 255);
+  font-family: "IBM Plex Sans Arabic", sans-serif;
+}
+.home {
+  height: 100vh;
+  width: 100%;
+  background-image: url(deegv3d-110674a5-f2d7-49d1-a2e6-7dedb9fac340.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+button {
+  background-color: red;
+  color: white;
+  width: 90px;
+  height: 34px;
+  border: none;
+  font-size: 13px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+button:hover {
+  background-color: rgb(148, 0, 0);
+}
+#lang {
+  background-color: rgba(0, 0, 0, 0.799);
+  width: 90px;
+  height: 35px;
+  outline: 0;
+  border: none;
+  font-size: 19px;
+  border-radius: 10px;
+  inline-size: none;
+  direction: rtl;
+}
+#shaar {
+  position: absolute;
+  right: 13%;
+  top: -5%;
+  width: 200px;
+  height: 200px;
+}
+.back {
+  position: absolute;
+  top: 4%;
+  left: 10%;
+}
+
+h1 {
+  direction: rtl;
+  text-align: center;
+  font-size: 50px;
+}
+h2 {
+  direction: rtl;
+  text-align: center;
+  font-size: 30px;
+}
+h3 {
+  direction: rtl;
+  text-align: center;
+  font-size: 25px;
+}
+#sofle {
+  text-align: center;
+}
+#button {
+  background-color: red;
+  color: white;
+  width: 90px;
+  height: 50px;
+  outline: 0;
+  border: none;
+  font-size: 25px;
+  border-radius: 10px;
+  inline-size: none;
+}
+
+#button:hover {
+  background-color: rgb(148, 0, 0);
+}
+#email {
+  background-color: rgba(0, 0, 0, 0.816);
+  width: 500px;
+  height: 50px;
+  font-size: 20px;
+  direction: rtl;
+  outline: 0;
+  border: none;
+  font-size: 25px;
+  border-radius: 10px;
+  inline-size: none;
+}
+#email:focus::placeholder {
+  font-size: 13px;
+  transform: translateY(-10px);
+  transition: 0.5s;
+}
